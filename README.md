@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 
  ```python
   class WhoAmI:
-	  user = 'Alessandro Sironi'
+	  user = "Alessandro Sironi"
 	  current_edu = "Politecnico di Milano - Computer Science & Engineering"
 	  currently_learning = "Swift"
 	  hobbies = [
-		'Technology',
-		'Music',
-		'Gym'
+		"Technology",
+		"Music",
+		"Gym"
 	  ]
 	  def getCity(self):
 		return "Milano, IT"
