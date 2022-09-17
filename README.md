@@ -8,7 +8,7 @@ AlessandroSironi/AlessandroSironi is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-![Github Banner](https://github.com/AlessandroSironi/AlessandroSironi/media/banner.png)
+![banner](https://user-images.githubusercontent.com/100214750/190854102-f641331d-3d54-4282-9fae-508d658a814c.png)
 
 ## Who am I?
 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 ## Software and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/VXcode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
