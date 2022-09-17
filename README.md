@@ -14,17 +14,16 @@ You can click the Preview link to take a look at your changes.
 
  ```python
   class WhoAmI:
-    user = 'Alessandro Sironi'
-	  current_edu = "Politecnico di Milano - Computer Science & Engineering"
-    currently_learning = "Swift"
-	  hobbies = [
-				'Technology',
-			 	'Music',
-				'Gym'
-			]
-	
-	def getCity():
-		return "Milano, IT"
+  user = 'Alessandro Sironi'
+  current_edu = "Politecnico di Milano - Computer Science & Engineering"
+  currently_learning = "Swift"
+  hobbies = [
+	'Technology',
+	'Music',
+	'Gym'
+  ]
+  def getCity():
+  	return "Milano, IT"
 	
  ```
 
@@ -39,21 +38,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Frameworks and Libraries
 
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-thebadge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
-<!-- ## Databases and Cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-</p> 
---> 
 
 ## Software and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?for-the-badge&logo=xcode&logoColor=white")
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
