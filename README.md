@@ -40,14 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-thebadge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 
 ## Software and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?for-the-badge&logo=xcode&logoColor=white")
+![Xcode](https://img.shields.io/badge/VXcode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
