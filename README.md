@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter?&style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-02569B?&style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Frameworks and Libraries
 
