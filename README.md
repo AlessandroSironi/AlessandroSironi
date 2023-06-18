@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt.js-%2300C58E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 ## Software and Tools
 
